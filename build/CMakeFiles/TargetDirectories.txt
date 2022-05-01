@@ -1,0 +1,3 @@
+/home/Projekty/Lab_8_27_04/build/CMakeFiles/apk_lab_8.dir
+/home/Projekty/Lab_8_27_04/build/CMakeFiles/edit_cache.dir
+/home/Projekty/Lab_8_27_04/build/CMakeFiles/rebuild_cache.dir
